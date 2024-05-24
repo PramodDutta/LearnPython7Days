@@ -1,10 +1,6 @@
-# Master Python in 7 Days: Conquer Your Coding Fears!
-
-- Learn Python in 7 Days, to Remove CODING FEAR!
-
 <img width="731" alt="Screenshot 2024-05-24 at 9 36 55 AM" src="https://github.com/PramodDutta/LearnPython7Days/assets/1409610/01efab05-0d57-415f-b607-5aa322c4b463">
 
-
+# Master Python in 7 Days: Conquer Your Coding Fears!
 
 Welcome to the "Master Python in 7 Days" challenge! This guide will help you conquer your coding fears by breaking down Python programming into manageable chunks, covered day by day. Each day focuses on specific topics to build your knowledge and confidence.
 
